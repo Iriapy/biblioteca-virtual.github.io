@@ -1,0 +1,59 @@
+body{
+    background-color: bisque;
+    }
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    font-size: 60px;
+}
+#imagen-portada img{
+    padding-top: 40px;
+    margin: auto !important;
+    width: 800px;
+}
+#imagen-portada{
+    width: 100%;
+    text-align: center;
+}
+nav{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#mensaje-principal{
+    color: rgb(71, 10, 10);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+}
+#formulario{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 40px;
+    font-size: 40px;
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+form div{
+    width: 100%;
+    margin: 10px 0px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(71, 10, 10);
+}
+form input{
+    padding: 5px 10px;
+}
+#boton-enviar:hover{
+    background-color:tomato;
+    cursor: pointer;
+} 
+#boton-enviar{
+    padding: 10px 30px;
+}
