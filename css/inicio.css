@@ -57,3 +57,11 @@ form input{
 #boton-enviar{
     padding: 10px 30px;
 }
+#rss a img{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 80px;
+    height: auto;
+
+}
