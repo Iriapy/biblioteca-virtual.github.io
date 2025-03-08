@@ -1,37 +1,37 @@
 <!--  La parte fija del fichero xml correspondiente a un rss  -->
 <rss version="2.0">
-<channel>
-  <title>Biblioteca virtual</title>
-  <link> https://iriapy.github.io/biblioteca-virtual.github.io/feed.xml</link>
-  <description>Actualizaciones de mi web</description>
-  <!--  La parte fija opcional  -->
-  <language>es-ES</language>
-  <image>
-    <title>Título de la Imagen</title>
-    <url> https://iriapy.github.io/biblioteca-virtual.github.io/logo.png</url>
-    <link> https://iriapy.github.io/biblioteca-virtual.github.io/</link>
-    <width>90</width>
-    <height>36</height>
-  </image>
-  
-  <!--  La parte variable, la que corresponde a cada noticia o ítem  -->
-  <item>
-    <title>Pagina principal</title>
-    <link> https://iriapy.github.io/biblioteca-virtual.github.io/</link>
-    <description>Bienvenidos a nuestra biblioteca virtual, nosotros queremos ser como frodo a su anillo, como luke a su sable, como jack sparrow a la perla negra, como harry potter a su varita magina, osea unicos e irremplazables</description>
-  </item>
-  
-  <item>
-    <title>Catalogo</title>
-    <link> https://iriapy.github.io/biblioteca-virtual.github.io/catalogo</link>
-    <description>El mejor catalogo que veras nunca, más epica que la muerte de Ace en la guerra de marineford</description>
-  </item>
-  
-  <item>
-    <title>Servicios</title>
-    <link> https://iriapy.github.io/biblioteca-virtual.github.io/servicios</link>
-    <description>No encontraras el ramen de naruto, ni los takoyakis de one piece, ni la cerveza de mantequilla de harry potter, pero tenemos todo lo que puedas imaginar</description>
-  </item>
-  
-</channel>
+  <channel>
+    <title>Biblioteca virtual</title>
+    <link> https://iriapy.github.io/biblioteca-virtual.github.io/feed.xml</link>
+    <description>Actualizaciones de mi web</description>
+    <!--  La parte fija opcional  -->
+    <language>es-ES</language>
+    <image>
+      <title>Título de la Imagen</title>
+      <url> https://iriapy.github.io/biblioteca-virtual.github.io/logo.png</url>
+      <link> https://iriapy.github.io/biblioteca-virtual.github.io/</link>
+      <width>90</width>
+      <height>36</height>
+    </image>
+    
+    <!--  La parte variable, la que corresponde a cada noticia o ítem  -->
+    <item>
+      <title>Pagina principal</title>
+      <link> https://iriapy.github.io/biblioteca-virtual.github.io/</link>
+      <description>Bienvenidos a nuestra biblioteca virtual, nosotros queremos ser como frodo a su anillo, como luke a su sable, como jack sparrow a la perla negra, como harry potter a su varita magina, osea unicos e irremplazables</description>
+    </item>
+    
+    <item>
+      <title>Catalogo</title>
+      <link> https://iriapy.github.io/biblioteca-virtual.github.io/catalogo</link>
+      <description>El mejor catalogo que veras nunca, más epica que la muerte de Ace en la guerra de marineford</description>
+    </item>
+    
+    <item>
+      <title>Servicios</title>
+      <link> https://iriapy.github.io/biblioteca-virtual.github.io/servicios</link>
+      <description>No encontraras el ramen de naruto, ni los takoyakis de one piece, ni la cerveza de mantequilla de harry potter, pero tenemos todo lo que puedas imaginar</description>
+    </item>
+    
+  </channel>
 </rss>
