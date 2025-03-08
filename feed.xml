@@ -14,15 +14,19 @@
 <height>36</height>
 </image>
 <!--  La parte variable, la que corresponde a cada noticia o ítem  -->
-<item>
-<title>Read me</title>
-<link> https://iriapy.github.io/biblioteca-virtual.github.io/README.md</link>
-<description>Información extra</description>
-</item>
-<item>
 <title>Pagina principal</title>
 <link> https://iriapy.github.io/biblioteca-virtual.github.io/</link>
 <description>biblioteca-virtual</description>
+</item>
+<item>
+<title>Catalogo</title>
+<link> https://iriapy.github.io/biblioteca-virtual.github.io/catalogo</link>
+<description>Catalogo web</description>
+</item>
+<item>
+<title>Servicios</title>
+<link> https://iriapy.github.io/biblioteca-virtual.github.io/servicios</link>
+<description>servicios</description>
 </item>
 </channel>
 </rss>
