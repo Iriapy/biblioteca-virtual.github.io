@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+#imagenes{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#imagenes img{
+    width: 400px;
+    margin: 20px;
+}
